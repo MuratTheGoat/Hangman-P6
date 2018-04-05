@@ -1,0 +1,6 @@
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\0566353\Desktop\Hangman-P6\hangman\hangman\obj\Debug\hangman.pdb
